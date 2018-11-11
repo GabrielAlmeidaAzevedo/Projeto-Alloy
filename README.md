@@ -16,3 +16,5 @@ Para que o torneio fique organizado, é necessário seguir algumas regras, como:
 Cliente: Agnaldo
 
 Integrantes: Thiago Santos, Gabriel Almeida, Marcelo Gabriel e José Vinicuis
+
+Nota: 9,0
